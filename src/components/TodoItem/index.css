@@ -1,0 +1,16 @@
+/* Write your CSS here */
+.line-cont {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.but {
+  background-color: transparent;
+  border: 1px solid #ff0b37;
+  color: #ff0b37;
+  width: 75px;
+  height: 30px;
+  margin-left: 10px;
+
+  align-self: center;
+}
